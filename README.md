@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi, I'm Mazhar Ali Mansuri 👋
 
-<!--
-**mazharali23/mazharali23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring DevOps Engineer passionate about Cloud Infrastructure, Automation, and Scalable Deployments.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Linux
+- AWS
+- Docker
+- Kubernetes
+- Jenkins
+- Git & GitHub
+- PostgreSQL
+- Apache & Nginx
+- Terraform (Learning)
+- Ansible (Learning)
+
+---
+
+## 📌 Current Focus
+
+- Building production-grade DevOps projects
+- Mastering Kubernetes & Terraform
+- Learning Infrastructure as Code
+- Improving CI/CD workflows
+- Preparing for DevOps internships & remote opportunities
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 ShopSphere DevOps Deployment
+Containerized full-stack application deployed using Docker Compose with reverse proxy integration and CI/CD pipeline.
+
+**Tech Stack:** Docker, Jenkins, PostgreSQL, Apache, Linux
+
+---
+
+### 🔹 Kubernetes Monitoring Stack
+Implemented monitoring using Prometheus and Grafana for Kubernetes workloads.
+
+**Tech Stack:** Kubernetes, Helm, Prometheus, Grafana
+
+---
+
+### 🔹 AWS CI/CD Pipeline
+Automated deployment pipeline using Jenkins integrated with AWS services.
+
+**Tech Stack:** AWS, Jenkins, GitHub Actions
+
+---
+
+## 🌱 Currently Learning
+
+- Terraform
+- Helm
+- GitHub Actions
+- Advanced Kubernetes
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/mazharalyy/
