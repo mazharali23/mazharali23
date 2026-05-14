@@ -1,64 +1,19 @@
 # Hi, I'm Mazhar Ali Mansuri 👋
 
-🚀 Aspiring DevOps Engineer passionate about Cloud Infrastructure, Automation, and Scalable Deployments.
+Aspiring DevOps Engineer focused on cloud infrastructure, automation, CI/CD, and scalable deployments.
 
-## 🔧 Technologies & Tools
+## ⚡ Tech Stack
+Linux • AWS • Docker • Kubernetes • Jenkins • Git • Prometheus • Grafana • Terraform
 
-- Linux
-- AWS
-- Docker
-- Kubernetes
-- Jenkins
-- Git & GitHub
-- PostgreSQL
-- Apache & Nginx
-- Terraform (Learning)
-- Ansible (Learning)
-
----
-
-## 📌 Current Focus
-
+## 🚀 Current Focus
 - Building production-grade DevOps projects
-- Mastering Kubernetes & Terraform
-- Learning Infrastructure as Code
-- Improving CI/CD workflows
-- Preparing for DevOps internships & remote opportunities
+- Learning Terraform & Kubernetes deeply
+- Improving CI/CD and deployment workflows
 
----
+## 📌 Featured Projects
+- Dockerized Full-Stack E-Commerce Application
+- Kubernetes Monitoring Stack
+- AWS CI/CD Pipeline
 
-## 🚀 Featured Projects
-
-### 🔹 ShopSphere DevOps Deployment
-Containerized full-stack application deployed using Docker Compose with reverse proxy integration and CI/CD pipeline.
-
-**Tech Stack:** Docker, Jenkins, PostgreSQL, Apache, Linux
-
----
-
-### 🔹 Kubernetes Monitoring Stack
-Implemented monitoring using Prometheus and Grafana for Kubernetes workloads.
-
-**Tech Stack:** Kubernetes, Helm, Prometheus, Grafana
-
----
-
-### 🔹 AWS CI/CD Pipeline
-Automated deployment pipeline using Jenkins integrated with AWS services.
-
-**Tech Stack:** AWS, Jenkins, GitHub Actions
-
----
-
-## 🌱 Currently Learning
-
-- Terraform
-- Helm
-- GitHub Actions
-- Advanced Kubernetes
-
----
-
-## 📫 Connect With Me
-
+## 📫 Connect
 - LinkedIn: https://www.linkedin.com/in/mazharalyy/
